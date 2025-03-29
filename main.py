@@ -8,6 +8,7 @@ from icecream import ic
 pip install python-dotenv
 pip install google-genai
 pip show google-genai
+pip install pillow
 
 """
 
